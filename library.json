@@ -1,6 +1,6 @@
 {
   "name": "TeenyKVS",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library for storing and retrieving data using a simple KeyValueStore format.  Great for storing data on an attached FRAM or SDCARD.  Also great format for radio packets - I used to make radio packets with unique headers and contents BUT now I only have two packet types - A KVS request packet with keys and no values and a response packet with KVS keys and values.  An example of a project that uses this library to store application defaults on an SDCARD can be found here: https://github.com/BeakeS/TeenyGPSTestbed_C2.git",
   "keywords": "KVS, KeyValueStore, fram, sdcard, radio, packet, Arduino-Library",
   "repository":
