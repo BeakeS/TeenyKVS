@@ -8,5 +8,5 @@ KVS is great for storing data on an attached FRAM or sdcards.
 
 Also great format for radio packets!!!  I used to design custom radio packets with unique headers and content BUT now I only have two packet types - A KVS request packet with keys and no values and a response or send packet with KVS keys and values.
 
-I'll add more documentation soon but you can find an example used to store program application defaults on an sdcard here - "https://github.com/BeakeS/TeenyGPSTestbed_C2.git"
+I'll add more documentation soon but you can find an example used to store program application defaults on an sdcard here - https://github.com/BeakeS/TeenyGPSTestbed_M5.git.
 
